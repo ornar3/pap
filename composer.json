@@ -1,0 +1,8 @@
+{
+    "name": "emanu/pap",
+    "description": "qrcode",
+    "require": {
+		"php": "^7.4.26",
+		"chillerlan/php-qrcode": "dev-main"
+	}
+}
